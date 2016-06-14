@@ -1,3 +1,3 @@
 # nescApps
 
-nesC applicationes, my first steps
+nesC applications, my first steps
